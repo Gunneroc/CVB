@@ -1,3 +1,6 @@
+#Witten by: Gunneroc
+#Contact: Gunneroc@gmail.com
+
 # Ref for using GitHub Desktop
 # https://programminghistorian.org/lessons/getting-started-with-github-desktop
 
